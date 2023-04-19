@@ -1,5 +1,7 @@
 ## Druid Filtering Emitter
 
+Extension for [Apache Druid](https://druid.apache.org/) allowing to filter the metrics emmited by other emitters.
+
 ### Build
 
 To build the extension, run `mvn package` and you'll get a file in `target` directory.
