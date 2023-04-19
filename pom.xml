@@ -5,7 +5,7 @@
 
     <groupId>bi.deep</groupId>
     <artifactId>druid-filtering-emitter</artifactId>
-    <version>25.0.0</version>
+    <version>0.22.1</version>
 
     <scm>
         <connection>https://github.com/deep-bi/druid-filtering-emitter</connection>
@@ -15,7 +15,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <druid.version>25.0.0</druid.version>
+        <druid.version>0.22.1</druid.version>
         <jmh.version>1.9.2</jmh.version>
     </properties>
 
