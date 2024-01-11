@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> This extension was moved to [https://github.com/deep-bi/deep-druid-extensions/tree/main](deep-druid-extensions). Please find the releases for latest Druid versions [here](https://github.com/deep-bi/deep-druid-extensions/releases).
+
 ## Druid Filtering Emitter
 
 Extension for [Apache Druid](https://druid.apache.org/) allowing to filter the metrics emmited by other emitters.
